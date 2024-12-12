@@ -1,0 +1,1 @@
+# This repository contains the files related to sales analysis which is prediction based problem solved using regression of Machine learning
